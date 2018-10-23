@@ -46,17 +46,14 @@
         
         else if  (mod == 2 || mod == 4)
         {
-            pw += 'T';
+            pw += 'a';
         }
         
-        else if (mod == 5)
-        {
-            pw += 'A';
-        }
+      
         
         else 
         {
-            pw += 'C';
+            pw += 'a';
         }
         
         
